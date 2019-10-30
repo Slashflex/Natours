@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to Fake Tour Agency 👋</h1>
+<h1 align="center">Welcome to Natours (read : Nature Tours) 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> WebApp created using SASS(scss synthax) to learn how it works. 7-1 pattern and BEM will be used here 
+> WebApp created using SASS(scss synthax) to learn how it works. 7-1 pattern and BEM methodology are also used. 
 
 ## Install
 
@@ -30,7 +30,7 @@ npm run compile:sass
 [Fake tour agency](https://fake-tour-agency.netlify.com/)
 ## Show your support
 
-Give a ⭐️ if this project helped you !
+Give a ⭐️ if you liked this project !
 
 ***
 
