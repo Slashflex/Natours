@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Natours (read : Nature Tours) 👋</h1>
-<p>
+<h1 align="center">Welcome to Natours (compiled from Nature and Tours) 👋</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
