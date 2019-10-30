@@ -8,13 +8,15 @@
 ## Install
 
 ```sh
-npm install # This will install node-sass and packages required for sass to work based on package.json
+npm install 
+# This will install node-sass and packages required for sass to work based on package.json
 ```
 
 ## Usage (If you want to make modifications to SCSS files)
 
 ```sh
-npm run compile:sass # This will run a script from package.json which compiles scss files into css
+npm run compile:sass 
+# This will run a script from package.json which compiles scss files into css
 ```
 
 ## Author
