@@ -1,20 +1,22 @@
-<h1 align="center">Welcome to Fake Tour Agency 👋</h1>
-<p>
+<h1 align="center">Welcome to Natours 👋</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> WebApp created using SASS(scss synthax) to learn how it works. 7-1 pattern and BEM will be used here 
+> WebApp created using SASS(scss synthax) to learn how it works. 7-1 pattern and BEM methodology are also used. 
 
 ## Install
 
 ```sh
-npm install
+npm install 
+# This will install node-sass locally based on package.json
 ```
 
-## Usage
+## Usage (If you want to make modifications to SCSS files)
 
 ```sh
-npm run start
+npm run compile:sass 
+# This will run a script from package.json which compiles scss files into css
 ```
 
 ## Author
@@ -28,7 +30,7 @@ npm run start
 [Fake tour agency](https://fake-tour-agency.netlify.com/)
 ## Show your support
 
-Give a ⭐️ if this project helped you !
+Give a ⭐️ if you liked this project !
 
 ***
 
