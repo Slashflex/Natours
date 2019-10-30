@@ -9,7 +9,7 @@
 
 ```sh
 npm install 
-# This will install node-sass and packages required for sass to work based on package.json
+# This will install node-sass locally based on package.json
 ```
 
 ## Usage (If you want to make modifications to SCSS files)
