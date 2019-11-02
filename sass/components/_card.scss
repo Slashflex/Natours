@@ -134,7 +134,7 @@
                 padding: 1rem;
 
                 &:not(:last-child) {
-                    border-bottom: 1px solid $color-grey-light-2;
+                    border-bottom: 1px solid $color-gray-light-2;
                 }
             }
         }
@@ -142,7 +142,7 @@
 
     // Back card styling
     &__cta {
-        @include centerHorizontalVertical;
+        @include absCenter;
         width: 90%;
         text-align: center;
     }
