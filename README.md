@@ -7,7 +7,7 @@
 </p>
 
 
-> WebApp created using SASS(scss synthax) to learn how it works. 7-1 pattern and BEM methodology are also used. 
+> Landing page created using SASS(scss synthax) to learn how it works. 7-1 pattern and BEM methodology are also used. 
 
 ## Install
 
@@ -40,7 +40,8 @@ npm run compress:css
 
 ```sh
 npm run build:css
-# This will run all of 4 above scripts to run into a single one (if css files gets deleted, this will regenerate them based on sass folder)
+# This will run all of 4 above scripts to run into a single one 
+# (if css files gets deleted, this will regenerate them based on sass folder's files)
 ```
 
 ## Author
