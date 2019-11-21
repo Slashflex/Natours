@@ -509,7 +509,8 @@
 
         <script>
             // Hides the popup on click on X
-            document.querySelector('.popup__close').addEventListener('click', e => {
+            const close = document.querySelector('.popup__close');
+            close.addEventListener('click', e => {
                 e.style.display = 'none';
             });
         </script>
