@@ -1,6 +1,6 @@
 {
   "name": "natours",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
